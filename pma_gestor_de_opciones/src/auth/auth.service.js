@@ -1,3 +1,4 @@
+console.log("🔥 AUTH SERVICE REAL FILE LOADED 🔥");
 import bcrypt from "bcryptjs";
 import jwt from "jsonwebtoken";
 import User from "../user/user.model.js";
